@@ -19,9 +19,9 @@ maintainers:
     url: https://truecharts.org
 name: whisparr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/whisparr
-  - https://ghcr.io/onedr0p/whisparr-nightly
-  - https://github.com/onedr0p/containers/tree/main/apps/whisparr
+  - https://github.com/KE0QHN/catalog-1/edit/main/stable/whisparr
+  - https://ghcr.io/hotio/whisparr
+  - https://hotio.dev/containers/whisparr/
 type: application
 version: 3.0.11
 annotations:
