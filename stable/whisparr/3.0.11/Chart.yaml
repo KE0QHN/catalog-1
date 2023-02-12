@@ -1,5 +1,5 @@
 apiVersion: v2
-appVersion: "0.1.0.53"
+appVersion: "2.0.0.108"
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org
