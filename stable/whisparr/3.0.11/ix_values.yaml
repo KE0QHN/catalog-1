@@ -32,7 +32,6 @@ service:
     ports:
       main:
         port: 6969
-        protocol: HTTP
         targetPort: 6969
 
 persistence:
