@@ -4788,9 +4788,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/whisparr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.11",
-            "latest_app_version": "2.0.0.115",
-            "latest_human_version": "2.0.0.115_3.0.11",
+            "latest_version": "13.0.14",
+            "latest_app_version": "2.0.0.116",
+            "latest_human_version": "2.0.0.116_13.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/whisparr.png"
         },
         "metube": {
