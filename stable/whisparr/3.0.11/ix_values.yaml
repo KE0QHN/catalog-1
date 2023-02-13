@@ -1,3 +1,4 @@
+startAsRoot: true
 image:
   repository: ghcr.io/hotio/whisparr
   pullPolicy: IfNotPresent
