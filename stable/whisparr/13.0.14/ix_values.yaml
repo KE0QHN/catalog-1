@@ -1,7 +1,7 @@
 image:
-  repository: tccr.io/truecharts/radarr
+  repository: hotio/whisparr
   pullPolicy: IfNotPresent
-  tag: 4.3.2.6857@sha256:8003c8b1d4fb9638f0de8651f3245dd5ac833db42ecf1a0a64deb179a4e43209
+  tag: nightly
 
 securityContext:
   readOnlyRootFilesystem: false
