@@ -5,9 +5,9 @@ dependencies:
     repository: https://library-charts.truecharts.org
     version: 11.1.2
 deprecated: false
-description: "A fork of Sonarr to work with movies à la Couchpotato"
-home: https://truecharts.org/charts/stable/radarr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png
+description: "Whisparr better version"
+home: https://truecharts.org/charts/stable/whisparr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/whisparr.png
 keywords:
   - whisparr
   - torrent
