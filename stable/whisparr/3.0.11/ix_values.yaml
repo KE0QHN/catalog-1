@@ -2,7 +2,7 @@ startAsRoot: true
 image:
   repository: ghcr.io/hotio/whisparr
   pullPolicy: IfNotPresent
-  tag: sha256:b569a86bd966e83bb55c1bd256cd5c3fd3321cda464c6b05c4526a5a0492bf17
+  tag: nightly-b7eda87@sha256:e37f7d254bab61944e8ae2ebbb6ea737102cd179127bcf375a3304da852dff0f
 
 securityContext:
   readOnlyRootFilesystem: false
